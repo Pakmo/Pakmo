@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="padding-top:0px; margin-top: 0px; ">_Pakmo Profile Page <img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4"></h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Pakmo&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Pakmo&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <p align="center">
 <a href="https://www.java.com/" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
