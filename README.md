@@ -41,3 +41,6 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </a>
 </p>
+
+[![@pakmo's Holopin board](https://holopin.me/pakmo)](https://holopin.io/@pakmo)
+
