@@ -43,5 +43,3 @@
 </p>
 <br><br><br><br><br><br>
 
-[![@pakmo's Holopin board](https://holopin.me/pakmo)](https://holopin.io/@pakmo)
-
