@@ -27,33 +27,4 @@
 <br><br>
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-298%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 746 Contributions in the Year 2022
- > 
-> 📦 23.6 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     23 repos            ██████████████████████░░░   88.46% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
-```
-
-
-
- Last Updated on 21/12/2022 15:43:41 UTC
-<!--END_SECTION:waka-->
+ <!--END_SECTION:waka-->
