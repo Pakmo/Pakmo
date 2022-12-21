@@ -1,12 +1,11 @@
-<p align="Center">
+<p style="text-align: center;">
 <img src="https://minepic.org/avatar/_Pakmo" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
 
-<h1 style="padding-top:0px; margin-top: 0px;">
+<h1>
 <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 _Pakmo Profile Page 
-<img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=C3C3C3&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer" style="text-align: center;"/>
+<img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4"><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=C3C3C3&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer"/>
 </h1>
 
 </p>
@@ -15,7 +14,7 @@ _Pakmo Profile Page
 <hr>
 
 ```
-💻 I am a self taught Java Developer and a Backend Developer
+💻 I am a self taught Java Developer and Backend Developer
 🔭 Working on @TecnoCraftNet
 🌱 Learning about Minecraft Development
 🌟 Main languages: Java, PHP (...)
