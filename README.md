@@ -24,4 +24,7 @@
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr style="margin-bottom:12px">
-&nbsp 🌐 My Website ➲ <a href="https://pakmo.it">https://pakmo.it</a>
+<br><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
