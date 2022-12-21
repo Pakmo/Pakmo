@@ -15,7 +15,7 @@
 
 ```
 💻 I am a self taught Java Developer 
-   and Backend Developer
+    and Backend Developer
 🔭 Working on @TecnoCraftNet
 🌱 Learning about Minecraft Development
 🌟 Main languages: Java, PHP (...)
