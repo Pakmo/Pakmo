@@ -26,7 +26,5 @@
 <hr style="margin-bottom:12px">
 <br><br>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
