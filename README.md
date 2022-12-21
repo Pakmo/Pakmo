@@ -1,14 +1,10 @@
-<p style="text-align: center;">
+<h1 align="center">
 <img src="https://minepic.org/avatar/_Pakmo" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
 
-<h1>
-<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
-_Pakmo Profile Page 
+<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> _Pakmo Profile Page 
 <img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=C3C3C3&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer"/>
 </h1>
-
-</p>
 
 <img align="left" src="https://image-placeholder.com/images/actual-size/320x320.png" alt="Pakmo image" width="320" height="320" />
 <hr>
