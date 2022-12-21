@@ -26,4 +26,4 @@
 <hr style="margin-bottom:12px">
 <br><br>
 
-![GitHub Snake Light](github-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Pakmo/Pakmo/newstyle/github-contribution-grid-snake.gif)
