@@ -24,8 +24,4 @@
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr style="margin-bottom:12px">
-&nbsp 🌐 Website: <a href="mailto:https://pakmo.it">https://pakmo.it</a> <br>
-&nbsp 📮 Email: <a href="mailto:contact@pakmo.it">contact@pakmo.it</a> <br>
-&nbsp 📬 Telegram: <a href="https://t.me/pakmow">@PakmoW</a>
-<br>
-&nbsp 🎧 Discord: <a href="#">Pakmo#2636</a>
+&nbsp 🌐 Website: <a href="mailto:https://pakmo.it">https://pakmo.it</a>
