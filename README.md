@@ -1,5 +1,5 @@
 
-  <h1 style="text-align: center" >
+  <h1 align="center">
 
   <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
   _Pakmo Profile Page 
