@@ -1,0 +1,11 @@
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  compile:
+     runs-on: ubuntu-latest
+     steps:
+       - name: generate-snake-game-from-github-contribution-grid
+         uses: Platane/snk@v2.1.0
