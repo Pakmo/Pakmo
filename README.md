@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="center" >
 <img src="https://minepic.org/avatar/_Pakmo" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
 
 <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> _Pakmo Profile Page 
-<img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4"><br>
+<img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4">
 <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=C3C3C3&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer"/>
 </h1>
 
