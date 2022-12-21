@@ -1,6 +1,5 @@
 
   <h1 align="center" >
-  <img src="https://minepic.org/avatar/_Pakmo" style="border-radius: 16px; padding-bottom: 0px" width="100" height="100" >
 
   <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
   _Pakmo Profile Page 
