@@ -5,8 +5,8 @@
   _Pakmo Profile Page 
   <img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=C3C3C3&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer"/>
-
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer" style="margin-bottom: -20px">
   </h1>
 
 
