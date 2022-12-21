@@ -12,7 +12,6 @@
 
 <img align="left" src="https://image-placeholder.com/images/actual-size/320x320.png" alt="Pakmo image" width="320" height="320" />
 <hr>
-
 ```
 💻 I am a self taught Java Developer 
    and Backend Developer
@@ -23,5 +22,4 @@
 💖 In a complicated relationship with My PC
 🎵 Love metal, lofi, jazz and soft music
 ```
-
 <hr>
