@@ -10,7 +10,6 @@
   </h1>
 
 
-<img align="left" src="https://image-placeholder.com/images/actual-size/320x320.png" alt="Pakmo image" width="320" height="320" />
 <hr>
 
 ```
