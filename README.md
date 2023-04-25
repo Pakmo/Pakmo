@@ -11,6 +11,7 @@
 
 
 <hr>
+<img align="right" width=230px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ```
 💻 I am a self taught Java Developer 
