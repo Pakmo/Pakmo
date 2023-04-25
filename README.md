@@ -1,16 +1,13 @@
 
-  <h1 align="center">
+  <div align="center">
 
   <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
-  _Pakmo Profile Page 
+  Pakmo Profile Page
   <img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4">
 <br>
- 
 <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer" style="margin-bottom: -10px">
-  </h1>
+  </div>
 
-
-<hr>
 <img align="right" width=230px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
