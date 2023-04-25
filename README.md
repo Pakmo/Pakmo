@@ -13,15 +13,16 @@
 <hr>
 <img align="right" width=230px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-```
-💻 I am a self taught Java Developer 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+- 💻 I am a self taught Java Developer 
    and Backend Developer
-🔭 Working on @TecnoCraftNet
-🌱 Learning about Minecraft Development
-🌟 Main languages: Java, PHP (...)
-🚩 Interested in Full Stack Java development
-💖 In a complicated relationship with My PC
-🎵 Love metal, lofi, jazz and soft music
-```
+- 🔭 Working on @TecnoCraftNet
+- 🌱 Learning about Minecraft Development
+- 🌟 Main languages: Java, PHP (...)
+- 🚩 Interested in Full Stack Java development
+- 💖 In a complicated relationship with My PC
+- 🎵 Love metal, lofi, jazz and soft music
+- 📫 Reach out to me at: contact@pakmo.it
 
 <hr>
