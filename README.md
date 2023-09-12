@@ -2,8 +2,8 @@
   <div align="center">
 
   <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> 
-  Pakmo Profile Page
-  <img src="https://komarev.com/ghpvc/?username=Pakmo&color=ff69b4">
+  Prixed Profile Page
+  <img src="https://komarev.com/ghpvc/?username=Prixed&color=ff69b4">
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&width=435&lines=I'm+Java+Developer;I'm+Bot+Developer;I'm+Backend+Developer" style="margin-bottom: -10px">
   </div>
