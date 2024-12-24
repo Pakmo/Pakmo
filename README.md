@@ -21,6 +21,6 @@
 - 💖 In a complicated relationship with My PC
 - 🎵 Love metal, lofi, jazz and soft music
 - 📫 Reach out to me at: marco.fwork@libero.it
-- 🌐 You can see some of my projects on <a href="#">my portfolio</a>
+- 🌐 You can see some of my projects on <a href="https://pakmo.github.io">my portfolio</a>
 
 <hr>
