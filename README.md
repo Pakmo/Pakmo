@@ -20,7 +20,7 @@
 - 🚩 Interested in Full Stack Java development
 - 💖 In a complicated relationship with My PC
 - 🎵 Love metal, lofi, jazz and soft music
-- 📫 Reach out to me at: marco.fwork@libero.it
+- 📫 Reach out to me at: marco.federici002@outlook.com
 - 🌐 You can see some of my projects on <a href="https://pakmo.github.io">my portfolio</a>
 
 <hr>
