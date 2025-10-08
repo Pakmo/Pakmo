@@ -16,7 +16,7 @@ Hello! I'm **Marco F.**, a self-taught **Java and Backend Developer**.
 I love creating **Minecraft plugins**, developing **bots and complex backends**, and exploring new technologies.  
 
 - 💻 **Backend & Java Developer**  
-- 🔭 Currently working at **@TecnoCraftNet**  
+- 🔭 Currently working at **@TecnoCraftNet**, **@NISD**, **@AurenMC**
 - 🌱 Passionate about **advanced Minecraft development**  
 - 🎵 Music lover: Metal, Lofi, Jazz, Soft music  
 - 💖 In a complicated relationship with my **PC**  
