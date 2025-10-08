@@ -20,7 +20,7 @@ I love creating **Minecraft plugins**, developing **bots and complex backends**,
 - 🌱 Passionate about **advanced Minecraft development**  
 - 🎵 Music lover: Metal, Lofi, Jazz, Soft music  
 - 💖 In a complicated relationship with my **PC**  
-- 📫 Contact me at: **marco.federici002@outlook.com**  
+- 📫 Contact me at: **marco.federici@ik.me**  
 - 🌐 Check out my projects at: [pakmo.vercel.app](https://pakmo.vercel.app/)
 
 ---
