@@ -16,12 +16,12 @@ Hello! I'm **Marco F.**, a self-taught **Java and Backend Developer**.
 I love creating **Minecraft plugins**, developing **bots and complex backends**, and exploring new technologies.  
 
 - 💻 **Backend & Java Developer**  
-- 🔭 Currently working at **@TecnoCraftNet**, **@NISD**, **@AurenMC**
+- 🔭 Currently working at **@Terrakos**, **@NISD**
 - 🌱 Passionate about **advanced Minecraft development**  
 - 🎵 Music lover: Metal, Lofi, Jazz, Soft music  
 - 💖 In a complicated relationship with my **PC**  
 - 📫 Contact me at: **marco.federici@ik.me**  
-- 🌐 Check out my projects at: [pakmo.vercel.app](https://pakmo.vercel.app/)
+- 🌐 Check out my projects at: [https://pakmo.it](https://pakmo.it)
 
 ---
 
@@ -60,7 +60,7 @@ I love creating **Minecraft plugins**, developing **bots and complex backends**,
 
 ## <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30px">&nbsp;Portfolio Highlights
 
-Visit my online portfolio at **[pakmo.vercel.app](https://pakmo.vercel.app/)** to see:
+Visit my online portfolio at **[https://pakmo.it](https://pakmo.it)** to see:
 
 - Recent projects and code samples  
 - Contact info and collaboration opportunities  
