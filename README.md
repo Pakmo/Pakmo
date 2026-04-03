@@ -20,7 +20,7 @@ I love creating **Minecraft plugins**, developing **bots and complex backends**,
 - 🌱 Passionate about **advanced Minecraft development**  
 - 🎵 Music lover: Metal, Lofi, Jazz, Soft music  
 - 💖 In a complicated relationship with my **PC**  
-- 📫 Contact me at: **marco.federici@ik.me**  
+- 📫 Contact me at: **marco.federici@sm0.it**  
 - 🌐 Check out my projects at: [https://pakmo.it](https://pakmo.it)
 
 ---
